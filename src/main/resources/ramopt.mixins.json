@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.ramopt.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "ramopt.refmap.json",
+  "mixins": [
+    "CompoundTagInternMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
